@@ -11,7 +11,8 @@ ul {
 body {
     background-position: top center;
     background-size: 100% auto;
-    background-image: url(./assets/Estrelas2.jpg);
+    background-image: url(./assets/lantern.jpg);
+    background-repeat: repeat;
 }
 
 *body {
@@ -28,7 +29,7 @@ header div {
     width: 120px;
     background-image: linear-gradient(90deg, #C91842 0%, #5CC2E2 100%);
     ;
-    border-radius: 50%;
+    border-radius: 35%;
     margin: auto;
     display: flex;
     padding: 4px;
@@ -65,7 +66,7 @@ section div {
     background-color: #262629; 
     padding-top: 24px;
     padding: 32px;
-    border-radius: 4px;
+    border-radius: 6px;
 }
 
 section h1 {
@@ -76,11 +77,11 @@ section h1 {
 section p {
     letter-spacing: -0.18px;
     color: rgba(217, 217, 217, 1);
-    ;
+    padding-top: 8px;
 }
 
 ul {
-    display: flex;
+    display: inline-flex;
     flex-wrap: wrap;
     gap: 16px;
     margin-top: 24px;
