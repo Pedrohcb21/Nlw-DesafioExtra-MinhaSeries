@@ -2,7 +2,7 @@
 
 >Trilha Explorer
 
-![preview](./github/pedrohcb21.github.io_Nlw-DesafioExtra-MinhaSeries_%20(1).png)
+![preview](./github/pedrohcb21.github.io_Nlw-DesafioExtra-MinhaSeries_%20(2).png)
 
 ## 🛠️ Tecnologias Utilizadas
 
